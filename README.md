@@ -27,6 +27,12 @@ A modern browser extension that transforms your new tab experience with a beauti
 
 Available soon on Chrome Web Store!
 
+## Upcoming Features
+
+- 🖼️ Support for custom wallpaper uploads
+- 📁 Categorized wallpaper collections for better organization
+- 🤖 ChatGPT integration in the left sidebar for quick AI assistance
+
 ## Feedback
 
 Your feedback is valuable! Please feel free to open issues or submit pull requests to help improve this extension.
